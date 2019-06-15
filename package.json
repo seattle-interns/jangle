@@ -1,0 +1,11 @@
+{
+  "name": "Jangle",
+  "version": "1.0.0",
+  "description": "Voice chat application for Luke, Marshall, and Tyler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Brandon, Marshall Richards, and Tyler Tracy",
+  "license": "ISC"
+}
